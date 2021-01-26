@@ -11,5 +11,3 @@ Git Config   11 mins         ▓░░░░░░░░░░░░░░░░
 C            10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 ```
 <!--END_SECTION:waka-->
-
-<!--[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=pradeepkr1003&layout=compact)](https://wakatime.com/@pradeepkr1003) 
