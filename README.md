@@ -1,5 +1,12 @@
 ### Hi there, I'm Pradeep Kumar <img src="https://media.giphy.com/media/Yrfa3vPYjWDwlEfvHw/giphy.gif" width="25px">
 <!--START_SECTION:waka-->
+```text
+Python       3 hrs 17 mins   █████████████▒░░░░░░░░░░░   53.65 % 
+HTML         1 hr 38 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.77 % 
+Other        49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Git Config   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+C            10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+```
 <!--END_SECTION:waka-->
 
 <!--[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=pradeepkr1003&layout=compact)](https://wakatime.com/@pradeepkr1003) 
