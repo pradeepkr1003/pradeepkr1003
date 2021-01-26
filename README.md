@@ -1,4 +1,4 @@
-### Hi there, I'm Pradeep Kumar <img src="https://media.giphy.com/media/kG1xbICnT04oYo5Y8a/giphy.gif" width="25px">
+### Hi there, I'm Pradeep Kumar <img src="https://media.giphy.com/media/kG1xbICnT04oYo5Y8a/giphy.gif" width="25px" height="20px">
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/pradeepkr1003)
 
