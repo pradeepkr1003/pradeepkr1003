@@ -1,4 +1,5 @@
 ### Hi there, I'm Pradeep Kumar <img src="https://media.giphy.com/media/Yrfa3vPYjWDwlEfvHw/giphy.gif" width="25px">
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=pradeepkr1003&layout=compact)](https://wakatime.com/@pradeepkr1003)
+
+<!--[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=pradeepkr1003&layout=compact)](https://wakatime.com/@pradeepkr1003) 
