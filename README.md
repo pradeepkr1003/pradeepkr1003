@@ -9,10 +9,10 @@ I’m currently Learning
 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
-Python       8 hrs 15 mins   ███████████████░░░░░░░░░░   59.80 % 
-HTML         4 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░░░   30.56 % 
-Other        50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Git Config   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-C            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Python       8 hrs 15 mins   ████████████████░░░░░░░░░   63.46 % 
+HTML         4 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   32.43 % 
+Git Config   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+C            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 <!--END_SECTION:waka-->
