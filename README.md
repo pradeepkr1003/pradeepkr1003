@@ -5,6 +5,7 @@ I’m currently Learning
  - Flask
  - Git
  - Algebra
+ - d3
 
 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
