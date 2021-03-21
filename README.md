@@ -3,10 +3,10 @@
 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
-Python       14 hrs 41 mins  ███████████░░░░░░░░░░░░░░   43.81 % 
-JavaScript   13 hrs 30 mins  ██████████░░░░░░░░░░░░░░░   40.24 % 
-HTML         3 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-CSS          1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-JSON         44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Python       11 hrs 58 mins  ██████████▓░░░░░░░░░░░░░░   42.04 % 
+JavaScript   11 hrs 14 mins  ██████████░░░░░░░░░░░░░░░   39.45 % 
+HTML         3 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+CSS          1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+JSON         44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 ```
 <!--END_SECTION:waka-->
